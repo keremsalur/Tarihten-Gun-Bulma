@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641246680 source:c:\users\kerem\desktop\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
